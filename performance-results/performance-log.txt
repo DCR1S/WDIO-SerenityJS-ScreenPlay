@@ -1,0 +1,6 @@
+{"startDisplayTime":"9/8/2024, 16:54:37","instanceID":"inst375afa5bc3d30f8d45ea501a7b31181e"}
+{"startDisplayTime":"9/8/2024, 16:54:39","instanceID":"inst303a2c514ca0a37ab79d5139aecfc7d3"}
+{"startDisplayTime":"9/8/2024, 16:57:52","instanceID":"instafe4796bfcbe87903265fe0651b583a8"}
+{"startDisplayTime":"9/8/2024, 16:57:55","instanceID":"inst9a0b6c0ea622a5cc7085f05ee97678f9"}
+{"name":"Startup","brName":"chrome","id":"859ff3ecf6eed576d3c5f6598073495d","instanceId":"instafe4796bfcbe87903265fe0651b583a8","startTime":1723240675978,"endTime":1723240677477,"startDisplayTime":"9/8/2024, 16:57:55","duration":1499,"isTestPassed":true}
+{"name":"Startup","brName":"firefox","id":"72148c220be7f7ae6d99495ddef4cb86","instanceId":"inst9a0b6c0ea622a5cc7085f05ee97678f9","startTime":1723240678274,"endTime":1723240679448,"startDisplayTime":"9/8/2024, 16:57:58","duration":1174,"isTestPassed":true}

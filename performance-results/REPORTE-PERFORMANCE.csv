@@ -1,0 +1,2 @@
+name,brName,avgTime,sem,repeats,minValue,maxValue,earliestTime,latestTime
+Startup,general,1337,163,2,1174,1499,"9/8/2024, 16:57:55","9/8/2024, 16:57:58"
